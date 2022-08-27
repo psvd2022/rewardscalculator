@@ -1,0 +1,6 @@
+{
+    "method": "GET",
+    "url": "http://localhost:8083/api/v1/customers/1/rewards",
+    "expectedStatusCode": "200 OK",
+    "expectedResponse": {"customerId":1,"totalPoints":2225,"monthlyPoints":[{"month":"AUGUST 2022","points":100},{"month":"JUNE 2022","points":25},{"month":"JULY 2022","points":2100}]}
+}

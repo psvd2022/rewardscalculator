@@ -2,7 +2,7 @@
 
 This is a maven project.
 
-To Run the application -> Run RewardsCalculatorApplication.java as JAVA Application
+To Run the application -> Run com.demo.rewardscalculator.RewardsCalculatorApplication.java as JAVA Application
 
 Swagger -> http://localhost:8083/swagger-ui/index.html
 

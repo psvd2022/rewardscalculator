@@ -1,0 +1,6 @@
+{
+    "method": "GET",
+    "url": "http://localhost:8083/api/v1/customers/4/rewards",
+    "expectedStatusCode": "404 NOT_FOUND",
+    "expectedResponse": {"errorMessage":"TRANSACTIONS_NOT_FOUND_FOR_REQUESTED_CUSTOMER","errorCode":404}
+}

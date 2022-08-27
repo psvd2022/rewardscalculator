@@ -1,0 +1,6 @@
+{
+    "method": "GET",
+    "url": "http://localhost:8083/api/v1/customers/5/rewards",
+    "expectedStatusCode": "404 NOT_FOUND",
+    "expectedResponse": {"errorMessage":"CUSTOMER_NOT_FOUND","errorCode":404}
+}
